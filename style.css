@@ -1,0 +1,29 @@
+#hd{
+    padding-bottom: 30px;
+    width: 100%;
+}
+body{
+    color: skyblue;
+background:darkslategray;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border:2px dashed skyblue;
+    width: 600px;
+    height:400px;
+}
+ 
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: skyblue;
+}
+
+#b1{
+    margin-right: 20px;
+}
+
+#b2{
+    margin-left: 20px;
+}
